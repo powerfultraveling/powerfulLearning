@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[312],{9089:function(e){e.exports=JSON.parse('{"allTagsPath":"/powerfulLearning/blog/tags","slug":"/powerfulLearning/blog/tags/facebook","name":"facebook","count":1,"permalink":"/powerfulLearning/blog/tags/facebook"}')}}]);

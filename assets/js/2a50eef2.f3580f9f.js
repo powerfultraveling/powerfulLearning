@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[725],{1851:function(e){e.exports=JSON.parse('{"allTagsPath":"/powerfulLearning/blog/tags","slug":"/powerfulLearning/blog/tags/hola","name":"hola","count":1,"permalink":"/powerfulLearning/blog/tags/hola"}')}}]);
