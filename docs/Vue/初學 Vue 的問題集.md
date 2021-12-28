@@ -1,6 +1,4 @@
----
-sidebar_label: '初學 Vue 的問題集'
----
+
 
 # 初學 Vue 的問題集
 

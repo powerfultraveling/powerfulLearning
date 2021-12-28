@@ -10,7 +10,7 @@ const config = {
   tagline: 'Dinosaurs are cool',
   url: 'https://powerfultraveling.github.io',
   baseUrl: '/powerfulLearning/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'powerfultraveling', // Usually your GitHub org/user name.

@@ -1,6 +1,4 @@
----
-sidebar_label: '初學 Tailwind 的問題集'
----
+
 
 # 初學 Tailwind 問題集
 
