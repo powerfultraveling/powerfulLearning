@@ -19,4 +19,7 @@
 
 兩篇文章提供了很好的切入點，讓我們思考該怎麼去寫一個乾淨好維護的 code。但是這兩篇都提到了一個還不熟悉的概念叫做 functional component，下一個任務就是研究這個技術。
 
-另外
+### (二) composition API
+1. 為甚麼要用 composition API?
+2. ref reactive 的差別
+3. 

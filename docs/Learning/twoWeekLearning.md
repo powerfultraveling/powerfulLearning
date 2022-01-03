@@ -50,6 +50,13 @@
 4. computed vs. data()
 5. watch
 6. life circle
+7. 用 vuex 做出 todo list
+8. 使用 vuex 的 thunk
+9. Nuxt
+#### 2.postCSS
+1. 可以用 Tailwnd 自由切版
 
-#### 2.Tailwind
- 
+#### 3. GraphQL
+1. 自由運用 GraphQl 來跟後端拿取資料
+2. 了解背後是怎麼運作
+3. 自己搭建一個 GraphQL 
